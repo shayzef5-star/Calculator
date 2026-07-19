@@ -143,12 +143,10 @@ function percent() {
     if (isNaN(current)) return;
 
     if (operator && previousValue) {
-        // Если есть операция — считаем процент от предыдущего числа
         const prev = parseFloat(previousValue);
         const result = prev * (current / 100);
         currentValue = String(result);
     } else {
-        // Если нет операции — просто делим на 100
         currentValue = String(current / 100);
     }
     updateDisplay();
