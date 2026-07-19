@@ -8,7 +8,7 @@
 
 ## 📸 Preview
 
-![Screenshot of the To-Do list](https://shayzef5-star.github.io/Calculator/Preview.jpg)
+![Screenshot of the Calculator](https://shayzef5-star.github.io/Calculator/Preview.jpg)
 
 ## 🛠️ Используемые технологии
 
